@@ -2,7 +2,7 @@
 
 Site responsivo criado no curso do professor André Rafael -
 https://www.origamid.com
-![Logo](https://bikcraft-01.vercel.app/img/screenshot.png)
+![Logo](https://brafe-rho.vercel.app/img/screenshot.png)
 
 ## Sistema de Grid utilizando:
 
